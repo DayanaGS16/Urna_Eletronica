@@ -1,0 +1,15 @@
+{
+  "name": "Urna da Turma",
+  "short_name": "Urna da Turma",
+  "description": "Simulador pedagógico de votação para a turma, sem validade eleitoral.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#dfe4e8",
+  "theme_color": "#dfe4e8",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}

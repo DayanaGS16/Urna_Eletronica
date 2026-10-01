@@ -1,0 +1,13 @@
+URNA DA TURMA — VERSÃO TELA CHEIA
+
+Esta versão é uma PWA. Quando instalada na tela inicial do Android, ela abre sem a barra do navegador.
+
+1. Coloque a pasta em um servidor HTTPS (por exemplo, hospedagem de site).
+2. Abra o endereço da pasta no Chrome do celular.
+3. No menu do Chrome, escolha “Adicionar à tela inicial” ou “Instalar aplicativo”.
+4. Abra o ícone “Urna da Turma” pela tela inicial.
+5. Ela abrirá em modo de aplicativo/tela cheia, sem a barra do navegador.
+
+Observação: abrir o arquivo index.html diretamente pelo WhatsApp/gerenciador de arquivos não ativa a instalação PWA. Para instalar como aplicativo é necessário abrir a versão hospedada em HTTPS.
+
+Duplo toque na tela também tenta ativar o modo de tela cheia quando o navegador permitir.
